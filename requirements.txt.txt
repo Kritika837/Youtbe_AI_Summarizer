@@ -1,0 +1,5 @@
+flask
+youtube-transcript-api
+transformers
+torch
+gunicorn
